@@ -1,4 +1,4 @@
-# 🌈 Mr. Alvin Rocks - Image & PDF Pro (PySide6 Edition)
+#  Mr. Alvin Rocks - Image & PDF Pro (PySide6 Edition)
 
 > ⚠️ **DISCLAIMER**: Mr. Alvin Rocks has developed this software entirely via **vibe coding with Gemini**. Pure vibes, professional code.
 
